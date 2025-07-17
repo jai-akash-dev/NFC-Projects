@@ -1,0 +1,173 @@
+.header{
+    background-color: #333533;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    color: aliceblue;
+    margin: 5px;
+}
+
+span{
+    color:aliceblue;
+}
+
+h1{
+    font-size: large;
+    letter-spacing: 1px;
+    color: #15F5BA;
+}
+
+h2{
+    color: #15F5BA;
+}
+
+.nameCard{
+    text-align: center;
+    background-color: #333533;
+    color: #15F5BA;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.nameCard h2{
+    margin-bottom: 5px;
+}
+
+.nameCard p{
+    color: aliceblue;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+.profile-pic{
+    width: 200px;
+    margin-top: 30px;
+    /* display: block; */
+    /* margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto; */
+    /* margin: 30px auto; */
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+.aboutMe{
+    background-color: #333533;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: justify;
+    margin: 5px;
+}
+
+.contactDetails{
+    background-color: #333533;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 5px;
+    /* text-align: justify; */
+    margin: 5px;
+}
+
+.NoStyleLink{
+    color: white;
+}
+
+button{
+    display: block;
+    margin: 30px auto;
+    padding: 10px 20px;
+    background-color: #15F5BA;
+    border: 2px solid aliceblue;
+    border-radius: 5px;
+}
+
+.socials{
+    background-color: #333533;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 5px;
+    /* text-align: justify; */
+    margin: 5px;
+}
+
+.socials h2{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 25px;
+    color: aliceblue;
+}
+
+.iconContainer{
+    display: flex;
+    justify-content: space-around;
+    margin: auto 10px;
+}
+
+.iconContainer i{
+    background-color: #15F5BA;
+    padding: 8px;
+    border-radius: 50%;
+    color: #333533;
+}
+
+.businessDetails{
+    background-color: #333533;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+    line-height: 30px;
+}
+
+.businessDetails h3{
+    margin: 10px;
+}
+
+.prevWorks{
+    background-color: #333533;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.carousel img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.map{
+    background-color: #333533;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.map iframe{
+    display: block;
+    margin: auto auto;
+    width: 100%;
+    height: 200px;
+}
+
+.footer{
+    background-color: #3335332e;
+    color: rgba(240, 248, 255, 0.573);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+.team-name{
+    color: rgba(240, 248, 255, 0.847);
+}
+
+a{
+    text-decoration: none;
+}
+  

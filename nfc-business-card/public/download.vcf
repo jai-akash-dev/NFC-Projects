@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jonathan Carter
+TEL:+12345678901
+EMAIL:jonathan.carter@email.com
+URL:https://www.carterdesigns.com
+PHOTO;TYPE=JPEG:http://localhost:5173/profile.jpg
+END:VCARD
